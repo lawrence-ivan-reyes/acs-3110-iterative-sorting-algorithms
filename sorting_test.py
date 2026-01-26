@@ -2,7 +2,7 @@
 
 from sorting import random_ints
 from sorting_iterative import is_sorted, bubble_sort, selection_sort, insertion_sort
-# from sorting_recursive import merge_sort, quick_sort
+from sorting_recursive import merge_sort, quick_sort
 
 sort = bubble_sort
 
